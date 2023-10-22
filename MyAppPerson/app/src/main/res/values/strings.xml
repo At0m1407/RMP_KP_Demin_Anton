@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">BudgetAppFinal</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="transport">Transport</string>
+    <string name="bills">Bills</string>
+    <string name="education">Education</string>
+    <string name="Entertainment"> Entertainment</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="food_dining">Food dining</string>
+    <string name="health_fitness">Health and Fitness</string>
+    <string name="other">Others</string>
+    <string name="personal_care">Personal Care</string>
+    <string name="shopping">Shopping</string>
+    <string name="travel">Travels</string>
+    <string name="transportation">Transportation</string>
+    <string name="successfully_inserted">Successfully Inserted</string>
+    <string name="db_insert_error">Database Insert Error</string>
+
+
+
+
+    <string name="balance">Balance</string>
+    <string name="create_budgets">Create Budgets</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="analysis">Analysis</string>
+    <string name="setting">Setting</string>
+
+    <string name="balance_and_income">Balance and Income</string>
+    <string name="total_income">Total Income</string>
+    <string name="add_income">Add Income</string>
+    <string name="submit">Submit</string>
+
+
+    <string name="clear">Clear</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="list_of_your_budgets">List of your budgets:</string>
+    <string name="transactions">Transactions</string>
+
+
+    <string name="diagram">Diagram</string>
+    <string name="option">Options</string>
+    <string name="date">Date</string>
+    <string name="please">Please add only transaction that you have already created a budget for!</string>
+    <string name="description">Description</string>
+    <string name="amount1">Amount($)</string>
+    <string name="you_spent">You spent: $</string>
+    <string name="you_over_spent">YOU OVER SPENT: $</string>
+    <string name="you_have">You have: $</string>
+</resources>

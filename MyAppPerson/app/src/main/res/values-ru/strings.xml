@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BudgetAppFinal</string>
+    <string name="category">Категории</string>
+    <string name="amount">Количество</string>
+    <string name="transport">Транспорт</string>
+    <string name="bills">Счета</string>
+    <string name="education">Образование</string>
+    <string name="Entertainment">Развлечение</string>
+    <string name="entertainment">Развлечение</string>
+    <string name="food_dining">Еда в заведениях</string>
+    <string name="health_fitness">Здоровье и Фитнесс</string>
+    <string name="other">Другое</string>
+    <string name="personal_care">Личная гигиена</string>
+    <string name="shopping">Покупка</string>
+    <string name="travel">Путешествия</string>
+    <string name="transportation">Транспорт</string>
+    <string name="successfully_inserted">успешно вставлен</string>
+    <string name="db_insert_error">Database Insert Error</string>
+    <string name="balance">Баланс</string>
+    <string name="create_budgets">Создание бюджетов</string>
+    <string name="add_transaction">Добавить транзакцию</string>
+    <string name="transaction_history">История транзакций</string>
+    <string name="analysis">Анализ</string>
+    <string name="setting">Настройки</string>
+    <string name="balance_and_income">Баланс и доход</string>
+    <string name="total_income">Общая прибыль</string>
+    <string name="add_income">Добавить доход</string>
+    <string name="submit">Добавить</string>
+    <string name="clear">Очистить</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="list_of_your_budgets">Список ваших бюджетов:</string>
+    <string name="transactions">Транзакции</string>
+    <string name="description">Описание</string>
+    <string name="amount1">Сумма($)</string>
+
+    <string name="diagram">Диаграмма</string>
+    <string name="option">Настройки</string>
+
+    <string name="date">Дата</string>
+    <string name="please">Пожалуйста, добавляйте только те транзакции, для которых вы уже создали бюджет!</string>
+
+    <string name="you_spent">Вы потратили: $</string>
+    <string name="you_over_spent">вы перерасходовал: $</string>
+    <string name="you_have">у вас есть: $</string>
+</resources>
